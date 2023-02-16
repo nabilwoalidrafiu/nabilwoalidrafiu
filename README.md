@@ -1,6 +1,6 @@
 # Hi there, I'm  Nabil Woalid Rafiu 👋
 
-## I'm a [M E R N] Stack Developer!
+## I'm a Web Developer!
 
 
 - 📚 I’m currently learning React, Javascript, Nodejs, MongoDB and Firebase.
